@@ -1,0 +1,13 @@
+{
+  "name": "cinnamon-user-shadows",
+  "private": true,
+  "scripts": {
+    "format": "prettier -w --ignore-unknown './**/*'",
+    "install-extension": "cinnamon-install-spice extension files/user-shadows@nathan818fr"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "prettier-plugin-pkg": "^0.18.0",
+    "prettier-plugin-sh": "^0.13.1"
+  }
+}
