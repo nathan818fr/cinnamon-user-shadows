@@ -63,7 +63,7 @@ msgstr "Выберите конфигурацию для загрузки"
 
 #. metadata.json->name
 msgid "User Shadows"
-msgstr "Пользовательские Тени"
+msgstr "Пользовательские Тени (User Shadows)"
 
 #. metadata.json->description
 msgid "Customize the shadows of cinnamon windows"
