@@ -1,5 +1,10 @@
 # [User Shadows - A Cinnamon extension][repo]
 
+> [!WARNING]
+> **This extension is no longer maintained.** I no longer use Cinnamon, so no
+> new versions or fixes will be published. Feel free to fork it, or to take it
+> over on [Cinnamon Spices][spices].
+
 A Cinnamon extension to customize window shadows.
 
 ![Screenshot](./screenshot.png?raw=true)
